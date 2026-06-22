@@ -1,7 +1,4 @@
-# Customer_Churn_Analysis
-Power BI dashboard analyzing customer churn
-
-# 📊 Customer Churn Analysis (Power BI)
+# 📊 Customer_Churn_Analysis
 
 ## 🔍 Overview
 This project analyzes customer churn using Power BI.
