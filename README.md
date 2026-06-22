@@ -10,7 +10,7 @@ This project analyzes customer churn using Power BI.
 
 ## 📊 Visuals Used
 - Line Chart (Tenure vs Customers)
-- Pie Chart (Contract Type)
+- Donut Chart (Contract Type)
 - Bar Chart (Internet Service)
 - Slicers (Gender, Payment Method)
 
