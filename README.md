@@ -24,4 +24,4 @@ This project analyzes customer churn using Power BI.
 - Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard(2).png)
+![Dashboard](dashboard (2).png)
